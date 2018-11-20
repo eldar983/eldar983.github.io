@@ -1,0 +1,234 @@
+
+
+
+h1{
+	color: white;
+	font-family: 'Pacifico';
+	font-size: 60px;
+	font-weight: normal;
+	text-shadow: 8px 8px 8px #aaa;
+	text-align: center;
+}
+
+#glavna{
+	
+	background-image: url(../img/background.jpg);
+	background-size: inherit;
+	background-repeat: no-repeat;
+
+}
+
+.mojiprojekti {
+	border-width: 2px;
+	border-style: solid;
+	border-color: white;
+	border-top-left-radius: 40%;
+	padding: 8px;
+	
+}
+
+.omeni {
+	border-width: 2px;
+	border-style: solid;
+	border-color: white;
+	padding: 8px;
+
+}
+
+.kontakt {
+
+    border-width: 2px;
+	border-style: solid;
+	border-color: white;
+    border-top-right-radius: 30%;
+	padding: 8px;
+
+}
+
+.header{	
+	width: 65%;
+	height: 20px;
+	left: 35%;
+	position: absolute;
+}
+
+.header a{
+	text-decoration: none;
+	font-size: 30px;
+	font-family: Ranga;
+	font-weight: normal;
+	background-color: transparent;
+	color: white;
+	line-height: 50px;
+	text-align: center;
+	transition: 300ms;
+}
+
+a.active, .header a:hover{
+	background-color: yellow;
+	color: black;
+	width: 100%;
+}
+
+.home {
+	border-width: 2px;
+	border-style: solid;
+	border-color: white;
+	border-top-left-radius: 40%;
+	padding: 8px;
+	
+}
+
+#projekti{
+
+	background-image: url(../img/projekti.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+#p1{
+	color: yellow;
+	font-family: verdana;
+	font-size: 15px;
+	padding: 5px;
+	margin: 50px;
+}
+
+#lista{
+	color: gold;
+	font-family: Tangerine;
+	font-size: 40px;
+	font-weight: bold;
+	font-
+}
+
+.o_meni{
+	
+	background-image: url(../img/o_meni.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+
+}
+
+.header{
+	margin-top: 10px;
+}
+
+h3{
+color: white gold;
+font-family: 'Courgette', cursive;
+font-size: 30px;
+font-variant-caps: small-caps;
+text-decoration: underline;
+
+}
+
+#wrapp{
+	width: 90%;
+	margin-left: 0px;
+	margin-top: 100px;
+}
+
+.box{
+	width: 800px;
+	margin-left: 10px;
+	margin-top: 10px;
+	color: white;
+	font-size: 17px;
+}
+
+.box img {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	float: left;
+	shape-outside: circle();
+	margin-right: 15px;
+}
+
+#contact{
+	background-image: url(../img/background2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+
+}
+
+#wrapp2{
+	width: 90%;
+	margin-left: 0px;
+	margin-top: 100px;
+}
+
+.box2 img {
+	width: 250px;
+	height: 250px;
+	float: right;
+	margin-right: 5px;
+	border-radius: 35%;
+	border-width: 5px;
+	border-color: black;
+	border-style: solid;
+}
+
+a.button{
+	-webkit-appearance: button;
+	-moz-appearance: button;
+	appearance: button;
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	font-family: Courgette; 
+	padding: 4px;
+	background-color: black;
+
+}
+
+a.button1{
+	-webkit-appearance: button;
+	-moz-appearance: button;
+	appearance: button;
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	font-family: Courgette; 
+	padding: 4px;
+	background-color: blue;
+
+}
+
+#ime{
+	font-family: Courgette;
+	font-size: 40px;
+	font-weight: bold;
+	color: silver;
+	margin-top: 300px;
+	background-size: 10px;
+	padding: 0;
+	width: 43px;
+	margin-bottom: 5px;
+}
+
+
+#prezime{
+	font-family: Courgette;
+	font-size: 40px;
+	font-weight: bold;
+	color: silver;
+	margin-top: 2px;
+	padding: 0;
+	width: 50px;
+	margin-bottom: 5px;
+
+}
+
+#ime:hover{
+	color: gold;
+
+}
+
+#prezime:hover{
+	color: gold;
+}
